@@ -2,7 +2,11 @@
 
 My working notes, workflows and code from the Udemy course *AI Engineer Agentic Track: The Complete Agent & MCP Course*. The course runs six weeks and covers eight projects, moving from a no-code agent demo to building agents in code and connecting them to tools through MCP (Model Context Protocol).
 
-This repo holds my own work: notes written in my own words, screenshots from my runs, exported workflows, and code. It does not include any course videos, slides or other instructor material.
+This repo holds my own work: notes written in my own words, screenshots from my runs, exported workflows, and code I write or modify. It does not include any course videos or slides.
+
+## Course code
+
+The instructor's code for the course, taught by Ed Donner, is in his public repo, [ed-donner/agents](https://github.com/ed-donner/agents) (MIT license). I run it from my own local clone and keep my notes and experiments here. Credit for the course material and original code goes to him.
 
 ## Progress
 
