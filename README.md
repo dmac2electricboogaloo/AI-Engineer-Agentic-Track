@@ -8,6 +8,17 @@ This repo holds my own work: notes written in my own words, screenshots from my 
 
 The instructor's code for the course, taught by Ed Donner, is in his public repo, [ed-donner/agents](https://github.com/ed-donner/agents) (MIT license). I run it from my own local clone and keep my notes and experiments here. Credit for the course material and original code goes to him.
 
+## Roadmap
+
+| Week | Focus |
+|------|-------|
+| 1 | Foundations, ending with a personal digital twin |
+| 2 | OpenAI Agents SDK |
+| 3 | CrewAI |
+| 4 | LangGraph |
+| 5 | Survey of other agent frameworks (Google ADK, AWS Strands and others) |
+| 6 | Model Context Protocol (MCP) |
+
 ## Progress
 
 | Week | Day | Topic | Folder |
